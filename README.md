@@ -44,11 +44,11 @@ const Mkingmin = {
 \- Agile methodology in product development ♾️ <br>
 \- Design thinking in problem solving (Double Diamond is the framework I usually use) 💎 <br>
 \- Top-down method in communication and presentation 🗣 <br>
-\- Slides design for presentation 📝
+\- Creative and innovative thinking 🧠
 
 _________________________________________________________________________________________
 
-<img src="https://cdn.pixabay.com/animation/2022/07/29/03/42/03-42-11-849_512.gif" width="100" height="100" style="vertical-align: middle;"/> <i>Check out the following projects in Pinned section and my <a href="https://mkingmin.github.io/">portfolio</a> for more</i>
+<img src="https://cdn.pixabay.com/animation/2022/07/29/03/42/03-42-11-849_512.gif" width="100" height="100" style="vertical-align: middle;"/> <i>Check out the following projects in my repositories and my <a href="https://mkingmin.github.io/">portfolio</a> for more</i>
 
 
       

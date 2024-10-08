@@ -32,7 +32,7 @@ const Mkingmin = {
     <tr>
       <td>Python, SQL</td>
       <td>HTML, CSS, JavaScript</td>
-      <td>Excel, PowerBI, Jupyter Notebook, MySQL</td>
+      <td>Excel, PowerBI, Jupyter Notebook, PostgreSQL</td>
       <td>GA4, Meta Business Manager</td>
       <td>Jira, Confluence, Draw.io, Slack</td>
     </tr>

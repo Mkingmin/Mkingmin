@@ -11,7 +11,7 @@ const Mkingmin = {
 
   Bio: "I'm a Business Analyst who possesses the blend of strong analytical skills and problem-solving mindset.
         UX priority or customer-centric is the core value I pursue in my career. With working experiences and
-        passion for Technology and Finance fields, I'm ready to become a problem-solver and a liaison to
+        passion for Digital and Technological aspects of various industries, I'm ready to become a problem-solver and a liaison to
         support your team to reach new milestones.",
 
   Describe: {
@@ -23,18 +23,58 @@ const Mkingmin = {
 <table>
   <tbody>
     <tr>
-      <td><b>Analytical programming language</b></td>
-      <td><b>Web programming language</b></td>
-      <td><b>Data analytics and visualization tools</b></td>
+      <td><b>Programming language</b></td>
+      <td><b>Product development</b></td>
+      <td><b>Data analytics, visualization tools and RDBMS</b></td>
       <td><b>Other analytics tools</b></td>
-      <td><b>Project management</b></td>
+      <td><b>Project management tools</b></td>
+      <td><b>Modeling and Diagraming</b></td>
     </tr>
     <tr>
-      <td>Python, SQL</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>Excel, PowerBI, Jupyter Notebook, PostgreSQL</td>
-      <td>GA4, Meta Business Manager</td>
-      <td>Jira, Confluence, Draw.io, Slack</td>
+      <td>
+        <ul>
+          <li>Python</li>
+          <li>SQL</li>
+          <li>HTML, CSS</li>
+          <li>JavaScript</li>
+          <li>Bash</li>
+      </ul>
+      </td>
+      <td>
+        <ul>
+          <li>User story</li>
+          <li>Use case</li>
+          <li>Requirements management</li>
+          <li>Wireframe design</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        <li>Excel</li>
+          <li>PowerBI</li>
+          <li>Jupyter Notebook</li>
+          <li>PostgreSQL</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>GA4</li>
+          <li>Meta Business Manager</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Jira</li>
+          <li>Confluence</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>BPMN</li>
+          <li>UML</li>
+          <li>Power-Interest matrix</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -42,7 +82,7 @@ const Mkingmin = {
 ### Soft skills
 \- Stakeholder management 💬 <br>
 \- Agile methodology in product development ♾️ <br>
-\- Design thinking in problem solving (Double Diamond is the framework I usually use) 💎 <br>
+\- Design thinking in problem solving <i>(Double Diamond is the framework I usually use)</i> 💎 <br>
 \- Top-down method in communication and presentation 🗣 <br>
 \- Creative and innovative thinking 🧠
 

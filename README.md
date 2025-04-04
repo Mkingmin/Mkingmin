@@ -6,10 +6,13 @@ Outline:
 - Technical tools
 - CTA: read more about pinned projects and check out my Portfolio for more
 -->
-```javascript
+```java
 const Mkingmin = {
 
-  Bio: "I'm an analyst who possesses the blend of strong analytical skills and problem-solving mindset. UX priority or customer-centric is the core value I pursue in my career. With working experiences and passion for Technology and Digital transformation, I'm ready to become a problem-solver, a planner, and a liaison to support your team to reach new milestones.",
+  Bio: "I'm an analyst who possesses the blend of strong analytical skills and problem-solving mindset.
+        UX priority or customer-centric is the core value I pursue in my career.
+        With working experiences and passion for Technology and Digital transformation, I'm ready to become
+        a problem-solver, a planner, and a liaison to support your team to reach new milestones.",
 
   Describe: {
         Personality: ["Embrace Risk", "Decide quickly", "Communicate humorously"],

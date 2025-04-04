@@ -15,7 +15,7 @@ const Mkingmin = {
         a problem-solver, a planner, and a liaison to support your team to reach new milestones.",
 
   Describe: {
-        Personality: ["Embrace Risk", "Decide quickly", "Communicate humorously"],
+        Personality: ["Embrace Risk", "Decide quickly"],
         Strengh: ["Fast learning", "Quick adapting", "Ambiguity handling"]
 }}
 ```

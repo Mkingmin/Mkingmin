@@ -59,7 +59,9 @@ const Mkingmin = {
       <td>
         <ul>
           <li>GA4</li>
-          <li>Meta Business Manager</li>
+          <li>GTM</li>
+          <li>GSC</li>
+          <li>Looker</li>
         </ul>
       </td>
       <td>
